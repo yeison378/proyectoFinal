@@ -1,0 +1,73 @@
+
+.EstiloBotones
+{
+    -fx-background-color :  #17212B;
+    -fx-background-radius :  30 0 0 30;
+}
+.EstiloBotones:hover
+{
+    -fx-background-color : #2B5278 ;
+    -fx-background-radius :  30 0 0 30;
+}
+.EstiloBotones:pressed
+{
+    -fx-background-color : #AAB2BA ;
+    -fx-background-radius :  30 0 0 30;
+}
+
+
+
+.botonesMaterias
+{
+    -fx-background-color :  #4082BC;
+    -fx-background-radius :  30 30 30 30;
+}
+.botonesMaterias:hover
+{
+    -fx-background-color : #2B5278 ;
+    -fx-background-radius :  40 40 40 40;
+}
+.botonesMaterias:pressed
+{
+    -fx-background-color : #AAB2BA ;
+    -fx-background-radius :  40 40 40 40;
+}
+
+
+
+
+
+/* estudiantes */
+
+/*color de fondo barra*/
+.scroll-pane {
+    -fx-background-color:  #17212B;
+}
+
+
+.scroll-bar:horizontal, .scroll-bar:vertical{
+    -fx-background-color:transparent;
+}
+
+
+
+.scroll-bar:horizontal .track,
+.scroll-bar:vertical .track{
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-background-radius: 0em;
+}
+
+.scroll-bar:horizontal .thumb,
+.scroll-bar:vertical .thumb {
+    -fx-background-color: #7D8389;
+    -fx-background-radius: 5em;
+}
+
+.scroll-pane > .corner {
+    -fx-background-color: black;
+}
+
+
+
+

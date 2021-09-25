@@ -1,0 +1,39 @@
+.borde{
+    -fx-background-radius: 30 30 30 30;
+}
+
+
+
+.botonAceptar
+{
+    -fx-background-color :  #B8B5B5;
+    -fx-background-radius: 30 30 30 30;
+}
+.botonAceptar:hover
+{
+    -fx-background-color: #139239;
+;
+}
+.botonAceptar:pressed
+{
+    -fx-background-color : #61BF7D ;
+
+}
+
+
+
+.botonCancelar
+{
+    -fx-background-color :  #B8B5B5;
+    -fx-background-radius: 30 30 30 30;
+}
+.botonCancelar:hover
+{
+    -fx-background-color: #D81F1F;
+;
+}
+.botonCancelar:pressed
+{
+    -fx-background-color : #D78383;
+
+}
